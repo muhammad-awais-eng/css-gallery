@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Neue Haas Unica';
+    src: url('NeueHaasUnica-Regular.woff2') format('woff2'),
+        url('NeueHaasUnica-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Neue Haas Unica Med';
+    src: url('NeueHaasUnica-Medium.woff2') format('woff2'),
+        url('NeueHaasUnica-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif Pro';
+    src: url('SourceSerifPro-Regular.woff2') format('woff2'),
+        url('SourceSerifPro-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Source Serif Pro';
+    src: url('SourceSerifPro-Black.woff2') format('woff2'),
+        url('SourceSerifPro-Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
